@@ -19,7 +19,7 @@ This project implements a **PID controller** to simulate autonomous vehicle navi
 
 2. Navigate to the project directory:
    ```
-   cd yourrepository
+   cd Autonomous-Ground-Vehicle-Simulation-with-PID-Control
    ```
 
 3. Open and run the `vehiclesimulation.m` file in MATLAB.
