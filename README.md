@@ -1,6 +1,4 @@
-İşte, `result.jpg` görselini ekleyecek şekilde düzenlenmiş README:
 
----
 
 # PID Controller for Autonomous Vehicle
 
